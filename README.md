@@ -7,3 +7,4 @@
 mkdocs serve
 mkdocs build
 ```
+https://www.mkdocs.org/#installation
